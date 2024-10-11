@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "iLmSnrSk920wPwNy0s2VnY1S6Ch9y02HSqV+vd02FJh/J/XN+y2F9ZHRUY2ul5HyN+DgMLXk14/fhtcvEuEFRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programming_Projects\\UkolDivelit2\\DatetimePickers\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mates\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\Mates\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\Mates\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mates\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\Mates\\.nuget\\packages\\materialdesignthemes.mahapps\\3.1.0\\materialdesignthemes.mahapps.3.1.0.nupkg.sha512",
+    "C:\\Users\\Mates\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Mates\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
